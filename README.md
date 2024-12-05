@@ -64,7 +64,7 @@ messages = [{
 
 2. スクリプトの実行:
 ```bash
-python src/bedrock-prompt-router-demo.py
+python3 src/bedrock-prompt-router-demo.py
 ```
 
 ## 注意事項
